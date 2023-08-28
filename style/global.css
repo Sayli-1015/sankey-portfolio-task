@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+:root {
+    /* fonts */
+    --web-font-1-extrabold: Manrope;
+
+    /* font sizes */
+    --web-font-6-bold-size: 1.5rem;
+    --web-font-4-bold-size: 2rem;
+    --web-font-1-extrabold-size: 5rem;
+    --web-font-5-bold-size: 1.75rem;
+    --web-p-bold-75-size: 3.5rem;
+    --font-size-29xl: 3rem;
+    --web-font-8-medium-size: 1rem;
+    --web-font-7-regular-size: 1.13rem;
+    --font-size-16xl: 2.19rem;
+
+    /* Colors */
+    --background-light-100: #fff;
+    --grey-100: #878787;
+    --dark-100: #24282c;
+    --background-light-60: rgba(255, 255, 255, 0.6);
+    --background-light-40: rgba(255, 255, 255, 0.4);
+    --dark-20: rgba(36, 40, 44, 0.2);
+    --background-light-80: rgba(255, 255, 255, 0.8);
+    --background-light-20: rgba(255, 255, 255, 0.2);
+    --grey-40: rgba(135, 135, 135, 0.4);
+    --color-peru: #a5823c;
+    --white-100: #f4f4f4;
+
+    /* Gaps */
+    --gap-29xl: 3rem;
+    --gap-xs: 0.75rem;
+    --gap-5xs: 0.5rem;
+    --gap-5xl: 1.5rem;
+    --gap-9xl: 1.75rem;
+    --gap-base: 1rem;
+    --gap-63xl: 5.13rem;
+    --gap-13xl: 2rem;
+    --gap-xl: 1.25rem;
+
+    /* Paddings */
+    --padding-5xl: 1.5rem;
+
+    /* border radiuses */
+    --br-81xl: 100px;
+}
